@@ -6,6 +6,15 @@
   --turquoise: #05F0D8;
   --aliceblue: #E1EBF4;
 }
+#root body{
+  padding: 3rem 1.2rem;
+}
+
+.characterBody div{
+  /* margin: 5px;
+  padding: 3px; */
+  box-shadow: 5px 5px 5px var(--aliceblue);
+}
 
 .navbar{
   background-color: #333;
