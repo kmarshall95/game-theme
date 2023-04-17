@@ -24,7 +24,8 @@ const Card = ({characters}) => {
                         <h3>{card.Character_Name}</h3>
                         <p>"{card.Pitch}"</p>
                         <p>{card.Class_Names}</p>
-                        <p>Summary: {card.Short_desc}</p>
+                        <p><b>Gameplay Type:</b> {card.Attack_movement}</p>
+                        <p><b>Summary:</b> {card.Short_desc}</p>
                         <Link to={`/character/${card.Character_Name}`}>
                         <button>View Character</button>
                         </Link>

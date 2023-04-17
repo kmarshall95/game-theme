@@ -5,7 +5,7 @@ const Footer = () => {
             <div className="row">
             <div className="col-md-6">
                 <p className="text-center">
-                <a href="#">Choice Theme</a> is proudly powered by Blue Brothers Designs</p>
+                Choice Theme is proudly powered by <a href="https://www.bluebrothersdesigns.com/">Blue Brothers Designs</a></p>
             </div>
             </div>
         </div>
