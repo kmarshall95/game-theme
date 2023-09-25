@@ -1,8 +1,10 @@
-You: hello
-ChatGPT: Sample response to 'hello'
-You: yo
-ChatGPT: Sample response to 'yo'
-You: yo
-ChatGPT: Sample response to 'yo'
-You: flow
-ChatGPT: Sample response to 'flow'
+You: tyjfmfnmfn fn
+ChatGPT: Sample response to 'tyjfmfnmfn fn'
+You: gtdhgfhgd
+ChatGPT: Sample response to 'gtdhgfhgd'
+You: greg
+ChatGPT: Sample response to 'greg'
+You: gjhghjgjhg
+ChatGPT: Sample response to 'gjhghjgjhg'
+You: kyle
+ChatGPT: Sample response to 'kyle'

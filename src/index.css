@@ -6,14 +6,39 @@
   --turquoise: #05F0D8;
   --aliceblue: #E1EBF4;
 }
-#root body{
-  padding: 3rem 1.2rem;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
 
-.characterBody div{
+h1, h2, h3, h4, h5, h6{
+  padding: 2rem 0;
+  font-weight: 600;
+}
+
+#root body{
+  padding: 3rem;
+  background-color: var(--aliceblue);
+}
+
+p{
+  color: var(--oxfordblue);
+  font-size: 1.3rem;
+  line-height: 1.4rem;
+}
+
+.row{
   /* margin: 5px;
   padding: 3px; */
-  box-shadow: 5px 5px 5px var(--aliceblue);
+  box-shadow: 5px 5px 5px var(--turfsblue);
+  margin: 2rem 1rem;
+}
+
+.alt-row{
+  background-color: var(--turquoise);
 }
 
 .navbar{

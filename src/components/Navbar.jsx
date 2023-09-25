@@ -4,6 +4,7 @@ const Navbar = () => {
 
     return (
         <nav className="navbar">
+            <h1 className="header__title">Choice Theme</h1>
         <div className="navbar__logo">
             {/* <img src={logo} alt="logo" /> */}
         </div>
